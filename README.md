@@ -1,1 +1,2 @@
-# projet-git
+## Projet Git et GitHub
+Partipant : Jade Espatolero
